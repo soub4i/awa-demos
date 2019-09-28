@@ -1,0 +1,19 @@
+{
+  "name": "demos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev:demo1": "parcel ./demo1/*.html",
+    "dev:demo2": "parcel ./demo2/*.html",
+    "dev:demo3": "parcel ./demo3/*.html",
+    "dev:demo4": "parcel ./demo4/*.html",
+    "dev:demo5": "parcel ./demo5/*.html",
+    "dev:demo6": "parcel ./demo6/*.html",
+    "dev:demo7": "parcel ./demo7/*.html",
+    "dev:demo8": "parcel ./demo8/*.html"
+  },
+  "dependencies": {
+    "parcel-bundler": "^1.12.3"
+  }
+}
